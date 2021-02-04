@@ -4,8 +4,8 @@ easily as it is using Markdown. That
 really fits for digital content writers,
 even for non-code.
 
-When I'm doing content that is like
-a tutorial, I have my personal 
+When I'm doing tutorial or lesson 
+content, I have my personal 
 workflow, so that I am always efficient.
 
 The very first rule is that everything
