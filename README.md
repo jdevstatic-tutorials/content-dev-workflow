@@ -7,8 +7,8 @@ even for non-code.
 When I'm doing tutorial or lesson 
 content, I have my personal 
 workflow, so that I am always efficient.
-Take note, what I am referring here
-is not software development workflow,
+Take note, what I am referring to
+is not a software development workflow,
 that's a very different one.
 
 The very first rule is that everything
