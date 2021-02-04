@@ -67,4 +67,13 @@ Then, say, I feel that I'm done with
 the content, this time, of course, 
 I need to proofread, for spelling
 and grammar and the structure of the
-content itself.
+content itself. I found it out that
+the simplest way of doing this
+is to use Google Docs. I will be
+copy and paste the rendered content
+in Google Docs. Don't get me wrong,
+I am not using this for the content, 
+it is just to check particularly for
+spelling. Also, you will see the
+structure of your content easily
+there. 
