@@ -63,9 +63,12 @@ initial thoughts.
 This is still a draft even though
 I am using the `main` branch because
 this is still private. The 
-default `README.md` is the page
-actually and it should be the only
-one for my content.
+default `README.md` is the actual page
+and it should be the only
+one for my content. If the
+tutorial or lesson is very long,
+it can simple have a TOC with
+hyperlinks.
 
 Then, say, I feel that I'm done with
 the content, this time, of course, 
