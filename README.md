@@ -3,7 +3,7 @@ GitHub lets you create digital content
 easily as it is using Markdown. That 
 really fits for digital content writers,
 even for non-code. The most important
-is that, you can use GitHub without
+is that you can use GitHub without
 Git. I don't want to use Git to simplify
 this workflow. Don't get me wrong,
 Git is a very powerful tool but
@@ -76,7 +76,7 @@ is the actual page
 and it should be the only
 one for my content. If the
 tutorial or lesson is very long,
-it can simple have a TOC with
+it can simply have a TOC with
 hyperlinks.
 
 Then, say, I feel that I'm done with
