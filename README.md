@@ -5,7 +5,11 @@ really fits for digital content writers,
 even for non-code. The most important
 is that, you can use GitHub without
 Git. I don't want to use Git to simplify
-this workflow.
+this workflow. Don't get me wrong,
+Git is a very powerful tool but
+for the sake of my workflow simplicity,
+I'll not be using it for simple
+content creation.
 
 When I'm doing tutorial or lesson 
 content, I have my personal 
@@ -65,8 +69,10 @@ I will be putting all my
 initial thoughts.
 This is still a draft even though
 I am using the `main` branch because
-this is still private. The 
-default `README.md` is the actual page
+this is still private. Make sure,
+you include the default `README.md`
+file. The  default `README.md` 
+is the actual page
 and it should be the only
 one for my content. If the
 tutorial or lesson is very long,
