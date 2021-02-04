@@ -2,7 +2,10 @@
 GitHub lets you create digital content
 easily as it is using Markdown. That 
 really fits for digital content writers,
-even for non-code.
+even for non-code. The most important
+is that, you can use GitHub without
+Git. I don't want to use Git to simplify
+this workflow.
 
 When I'm doing tutorial or lesson 
 content, I have my personal 
