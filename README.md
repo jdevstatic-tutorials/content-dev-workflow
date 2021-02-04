@@ -39,8 +39,9 @@ writers believe that too.
 I tested several workflows of my
 own and I want it to be simple as
 possible. I tried using GitHub 
-Desktop and VS Code as additional
-tools, but it's not that simple.
+Desktop and VS Code or GitHub Gist
+as additional tools, 
+but it's not that simple.
 Don't get me wrong, they are great
 technologies but the way I want it
 is as simple as possible. So, 
