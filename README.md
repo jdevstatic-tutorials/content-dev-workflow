@@ -48,7 +48,7 @@ really the best for me.
 I tested several workflows of my
 own and I want it to be simple as
 possible. I tried using GitHub 
-Desktop and VS Code or GitHub Gist
+Desktop and VS Code or GitHub Gist, etc.,
 as additional tools, 
 but it's not that simple.
 Don't get me wrong, they are great
@@ -56,8 +56,7 @@ technologies but the way I want it
 is as simple as possible. So, 
 this workflow that I am adhering
 too, I am using this whenever
-I am creating digital content
-for students.
+I am creating digital content.
 
 Firstly, I will start creating
 a repo here in GitHub and set it
@@ -94,7 +93,7 @@ seen easily there. The only downside
 is that embedded pictures will
 not be allowed
 in Google Docs but this does
-no matter, because the focus
+not matter, because the focus
 is content structure, spelling
 and grammar.
 
