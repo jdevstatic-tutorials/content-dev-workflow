@@ -15,7 +15,7 @@ The very first rule is that everything
 should be online, even the drafts of 
 my content, so that I can access it
 everywhere. The only downside is that,
-if there is no connection, I really 
+if there is no Internet connection, I really 
 don't have access to my online content
 unless I have an offline backup.
 
