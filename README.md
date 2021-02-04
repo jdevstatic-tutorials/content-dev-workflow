@@ -99,3 +99,19 @@ developing alone, this is very
 important. Then, I'll push the changes
 in `main` function when it's
 ready.
+
+So, there you have it. To summarize:
+
+1. Create a private repo. Consider it
+as a draft. And then, final step
+is to proofread using Google Docs
+for spelling and grammar.
+
+2. Once all checks are done, make it
+public. This is already the final version.
+This can be rendered in several formats
+for distribution.
+
+3. When there is an update, use 
+branches because the `main` branch
+is always the deployable branch.
