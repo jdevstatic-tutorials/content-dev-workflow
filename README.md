@@ -43,8 +43,7 @@ tracking the version of your file
 particularly when others
 are collaborating with your work.
 But even if I'm just alone, it's 
-really the best for me. Other
-writers believe that too.
+really the best for me.
 
 I tested several workflows of my
 own and I want it to be simple as
