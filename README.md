@@ -10,7 +10,7 @@ workflow, so that I am always efficient.
 
 The very first rule is that everything
 should be online, even the drafts of 
-my content, so that I can access that
+my content, so that I can access it
 everywhere. The only downside is that,
 if there is no connection, I really 
 don't have access to my online content
@@ -73,7 +73,8 @@ the simplest way of doing this
 is to use Google Docs. I will 
 copy and paste the rendered content
 in Google Docs. Don't get me wrong,
-I am not using this for the content, 
+I am not using Google Docs
+for content creation, 
 it is just to check particularly for
 spelling. Also, you will see the
 structure of your content easily
