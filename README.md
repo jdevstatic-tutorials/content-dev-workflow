@@ -48,3 +48,14 @@ this workflow that I am adhering
 too, I am using this whenever
 I am creating digital content
 for students.
+
+Firstly, I will start creating
+a repo here in GitHub and set it
+to `private` first. I will
+be putting all my initial thoughts.
+This is still a draft even though
+I am using the `main` branch because
+this is still private. The 
+default `README.md` is the page
+actually and it should be the only
+one formy content.
