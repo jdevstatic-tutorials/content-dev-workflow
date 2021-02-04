@@ -8,7 +8,7 @@ Git. I don't want to use Git to simplify
 this workflow. Don't get me wrong,
 Git is a very powerful tool but
 for the sake of my workflow simplicity,
-I'll not be using it for simple
+I'll not be using it for basic
 content creation.
 
 When I'm doing tutorial or lesson 
