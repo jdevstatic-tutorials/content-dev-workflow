@@ -122,3 +122,6 @@ for distribution.
 3. When there is an update, use 
 branches because the `main` branch
 is always the deployable branch.
+Then just merge the branch into
+main by pull request when
+it's ready.
