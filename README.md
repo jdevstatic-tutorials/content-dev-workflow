@@ -51,11 +51,20 @@ for students.
 
 Firstly, I will start creating
 a repo here in GitHub and set it
-to `private` first. I will
-be putting all my initial thoughts.
+to `private` first. For me, for every
+content is a separate repo, no
+matter how short the content is.
+I will be putting all my 
+initial thoughts.
 This is still a draft even though
 I am using the `main` branch because
 this is still private. The 
 default `README.md` is the page
 actually and it should be the only
 one formy content.
+
+Then, say, I feel that I'm done with
+the content, this time, of course, 
+I need to proofread, for spelling
+and grammar and the structure of the
+content itself.
