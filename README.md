@@ -4,11 +4,11 @@ easily as it is using Markdown. That
 really fits for digital content writers,
 even for non-code.
 
-When I'm doing a content that is like
+When I'm doing content that is like
 a tutorial, I have my personal 
 workflow, so that I am always efficient.
 
-The very first rule is that, everything
+The very first rule is that everything
 should be online, even the drafts of 
 my content, so that I can access that
 everywhere. The only downside is that,
@@ -28,7 +28,7 @@ you want your content as a plaintext
 format and let it be rendered for
 different versions and platforms.
 Plus, when you put your content in 
-GitHub, it is really an efficient
+GitHub, it is really efficient
 tracking the version of your file
 particularly when others
 are collaborating with your work.
@@ -70,7 +70,7 @@ I need to proofread, for spelling
 and grammar and the structure of the
 content itself. I found it out that
 the simplest way of doing this
-is to use Google Docs. I will be
+is to use Google Docs. I will 
 copy and paste the rendered content
 in Google Docs. Don't get me wrong,
 I am not using this for the content, 
@@ -97,13 +97,13 @@ because the `main` branch is
 always deployable. Even if I'm 
 developing alone, this is very 
 important. Then, I'll push the changes
-in `main` function when it's
+in the `main` function when it's
 ready.
 
 So, there you have it. To summarize:
 
 1. Create a private repo. Consider it
-as a draft. And then, final step
+as a draft. And then, the final step
 is to proofread using Google Docs
 for spelling and grammar.
 
