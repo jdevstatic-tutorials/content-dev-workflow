@@ -68,11 +68,9 @@ I will be putting all my
 initial thoughts.
 This is still a draft even though
 I am using the `main` branch because
-this is still private. Make sure,
-you include the default `README.md`
-file. The  default `README.md` 
-is the actual page
-and it should be the only
+this is still private. It is the 
+default `README.md` file that is the 
+actual page and it should be the only
 one for my content. If the
 tutorial or lesson is very long,
 it can simply have a TOC with
