@@ -35,3 +35,16 @@ are collaborating with your work.
 But even if I'm just alone, it's 
 really the best for me. Other
 writers believe that too.
+
+I tested several workflows of my
+own and I want it to be simple as
+possible. I tried using GitHub 
+Desktop and VS Code as additional
+tools, but it's not that simple.
+Don't get me wrong, they are great
+technologies but the way I want it
+is as simple as possible. So, 
+this workflow that I am adhering
+too, I am using this whenever
+I am creating digital content
+for students.
