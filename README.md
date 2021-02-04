@@ -78,3 +78,24 @@ it is just to check particularly for
 spelling. Also, you will see the
 structure of your content easily
 there. 
+
+After this, it is now ready. I'll
+be making my content public. I
+achieved several things here, my
+content can be rendered in different
+formats like HTML just like
+GitHub Pages or use GitHub Gist
+for embedding on another site
+or PDF for printing
+or downloading while the repo
+in GitHub will still remain the
+development site for updates.
+
+Now, when there is an update, this
+is the time I use branches 
+because the `main` branch is 
+always deployable. Even if I'm 
+developing alone, this is very 
+important. Then, I'll push the changes
+in `main` function when it's
+ready.
