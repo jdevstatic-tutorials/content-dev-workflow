@@ -120,7 +120,6 @@ in the `main` function when it's
 ready.
 
 So, there you have it. To summarize:
-
 1. Create a private repo. Consider it
 as a draft. And then, the final step
 is to proofread using Google Docs
