@@ -50,7 +50,7 @@ own and I want it to be simple as
 possible. I tried using GitHub 
 Desktop and VS Code or GitHub Gist, etc.,
 as additional tools, 
-but it's not that simple.
+but the workflow would not be that simple.
 Don't get me wrong, they are great
 technologies but the way I want it
 is as simple as possible. So, 
