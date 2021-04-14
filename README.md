@@ -37,7 +37,7 @@ The most important catch is that
 you want your content as a plaintext 
 format and let it be rendered for
 different formats for distribution.
-Plus, when you put your content in 
+Plus, when you put your content on 
 GitHub, it is really efficient
 tracking the version of your file
 particularly when others
@@ -50,7 +50,7 @@ own and I want it to be simple as
 possible. I tried using GitHub 
 Desktop and VS Code or GitHub Gist, etc.,
 as additional tools, 
-but it's not that simple.
+but the workflow would not be that simple.
 Don't get me wrong, they are great
 technologies but the way I want it
 is as simple as possible. So, 
@@ -59,7 +59,7 @@ too, I am using this whenever
 I am creating digital content.
 
 Firstly, I will start creating
-a repo here in GitHub and set it
+a repo here on GitHub and set it
 to `private` first. For me, for every
 content is a separate repo, no
 matter how short the content is.
@@ -72,8 +72,9 @@ default `README.md` file that is the
 actual page and it should be the only
 one for my content. If the
 tutorial or lesson is very long,
-it can simply have a TOC with
-hyperlinks.
+it can simply have a TOC. GitHub
+also added this recently and
+by default, it is enabled.
 
 Then, say, I feel that I'm done with
 the content, this time, of course, 
@@ -83,16 +84,16 @@ content itself. I found it out that
 the simplest way of doing this
 is to use Google Docs. I will 
 copy and paste the rendered content
-in Google Docs. Don't get me wrong,
+on Google Docs. Don't get me wrong,
 I am not using Google Docs
 for content creation, 
 it is just to check particularly for
 spelling. Also, the
 structure of the content can be
 seen easily there. The only downside
-is that embedded pictures will
+is that sometimes embedded pictures will
 not be allowed
-in Google Docs but this does
+on Google Docs but this does
 not matter, because the focus
 is content structure, spelling
 and grammar.
@@ -107,7 +108,7 @@ or use GitHub Gist
 for embedding on another site
 or PDF for printing
 or downloading, while the repo
-in GitHub will still remain the
+on GitHub will still remain the
 development site for updates.
 
 Now, when there is an update, this
