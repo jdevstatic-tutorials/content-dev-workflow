@@ -1,4 +1,7 @@
 # My Personal Content Dev Workflow
+
+*`updated 21 April 2022`*
+
 GitHub lets you create digital content
 easily as it is using Markdown. That 
 really fits for digital content writers,
