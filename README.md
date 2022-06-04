@@ -34,7 +34,7 @@ site development more than Google Docs
 or Microsoft Word. I have covered
 this in one of my posts:
 
-<https://github.com/xdvrx1/github-pages-tutorial>
+<https://github.com/jdevstatic/github-pages-tutorial>
 
 The most important catch is that
 you want your content as a plaintext 
